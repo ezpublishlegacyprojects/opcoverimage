@@ -1,0 +1,30 @@
+Extension opcoverimage for eZ publish
+
+
+Requirements
+============
+See the README file
+
+
+Getting and installing eZ publish
+=================================
+
+Installing the extension
+========================
+1. Download the package.
+2. Copy the downloaded package into the 'extension' directory of your
+   eZ publish installation.
+3. Unpack the files in the distribution.
+4. Enable the extension in eZ publish.
+   Regenerate the extensions autoloads config if enabling the extension by hand.
+5. Clear the caches for the administration interface
+6. @TODO
+7. Have fun !!!
+
+
+Troubleshooting
+===============
+For any problem or question, please post on the extension forums on projects.ez.no
+
+Known issues
+============

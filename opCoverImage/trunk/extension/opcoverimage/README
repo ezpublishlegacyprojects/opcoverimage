@@ -1,0 +1,18 @@
+Extension opcoverimage for eZ publish
+====================================
+
+Goal:
+-----
+
+- Embed @TODO
+
+Requirements:
+-------------
+
+- eZ Publish 4.x or later
+- eZOE
+
+Installation and Troubleshooting:
+---------------------------------
+
+- Find more information in INSTALL file ate the root of this extension
